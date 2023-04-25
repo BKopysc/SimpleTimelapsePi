@@ -9,8 +9,8 @@ The main goal was to schedule the timelapse to run in the background at a certai
 - [Camera module](https://projects.raspberrypi.org/en/projects/getting-started-with-picamera)
 
 ## Used libraries
-- `at` - linux command
-- `picamera2` - python library
+- [at](https://phoenixnap.com/kb/linux-at-command) - linux command
+- [picamera2](https://github.com/raspberrypi/picamera2) - python library
 
 ## Installation
 1. clone repo
