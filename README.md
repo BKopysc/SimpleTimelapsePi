@@ -42,3 +42,8 @@ There are two modes. You can use simple shell script (recommended) or python scr
  > Summary `python timelapse-pi-app.py 100 200` will instantly run process and make 100 photos with deleay of 200ms between each other.
  
  2. Hooray 🥂. Your timelapse are done! Check folders in current location!
+
+## Results 🌞
+
+https://user-images.githubusercontent.com/57834846/234415892-da883eb5-c0e1-4d9d-b520-e50b421e83cc.mp4
+
