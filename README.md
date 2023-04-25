@@ -1,5 +1,6 @@
 # SimpleTimelapsePi
-Simple timelapse application for Raspberry Pi with camera module
+Simple timelapse application for Raspberry Pi with camera module. 
+The main goal was to schedule the timelapse to run in the background at a certain time. This way you can leave the SSH connection and go to sleep peacefully 😴.
 
 ## Requirements
 - Python 3.x
