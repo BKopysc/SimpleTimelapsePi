@@ -5,8 +5,8 @@ The main goal was to schedule the timelapse to run in the background at a certai
 ## Requirements
 - Python 3.x
 - pip
-- RaspberryPi
-- Camera module
+- [Raspberry Pi](https://www.raspberrypi.com/)
+- [Camera module](https://projects.raspberrypi.org/en/projects/getting-started-with-picamera)
 
 ## Used libraries
 - `at` - linux command
