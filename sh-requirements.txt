@@ -1,0 +1,7 @@
+# install 'at'
+sudo apt install at
+
+# enable scheduling demon
+sudo systemctl enable --now
+
+
